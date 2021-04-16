@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92.951" height="90.073" viewBox="0 0 92.951 90.073">
+  <g id="Grupo_28934" data-name="Grupo 28934" transform="translate(-176.484 -2507.247)">
+    <circle id="Elipse_36" data-name="Elipse 36" cx="28.418" cy="28.418" r="28.418" transform="translate(186.356 2517.244)" fill="#657d89" opacity="0.2" style="isolation: isolate"/>
+    <path id="Trazado_40311" data-name="Trazado 40311" d="M178.957,2545.12a35.395,35.395,0,1,1,70.789-.011v.011" fill="none" stroke="#9b235c" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.945"/>
+    <path id="Trazado_40312" data-name="Trazado 40312" d="M181.043,2557.121a35.409,35.409,0,0,0,33.309,23.4l5.684-.095" fill="none" stroke="#9b235c" stroke-linecap="square" stroke-linejoin="round" stroke-width="3.882" stroke-dasharray="7.065 8.541"/>
+    <path id="Trazado_40313" data-name="Trazado 40313" d="M197,2556.351l17.913-10.095-.311-27.69" fill="none" stroke="#3d4451" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4.288"/>
+    <circle id="Elipse_37" data-name="Elipse 37" cx="5.44" cy="5.44" r="5.44" transform="translate(209.243 2540.556)" fill="#3d4451"/>
+    <path id="Trazado_40314" data-name="Trazado 40314" d="M241.27,2539.321l8.124,9.184,8.481-9.184" fill="none" stroke="#9b235c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.265"/>
+    <g id="Grupo_28933" data-name="Grupo 28933">
+      <path id="Trazado_40315" data-name="Trazado 40315" d="M245.392,2596.212,245,2596.1c-9.491-2.84-16.234-10.6-19.5-22.455a60.279,60.279,0,0,1-2.083-17.019l.054-1.152,14.8.159,5.961-6.95,6.888,6.683,16.506-.063.135,1.047a46.7,46.7,0,0,1-1.289,16.117c-2.966,11.414-10.127,19.578-20.708,23.6Z" fill="#f9f9f9"/>
+      <path id="Trazado_40316" data-name="Trazado 40316" d="M248.354,2597.32l-.363-.1c-8.862-2.554-15.157-9.537-18.205-20.194a52.349,52.349,0,0,1-1.945-15.306l.049-1.035,14.654.142,5.843-5.989,5.32,5.75,15.41-.057.125.941a40.462,40.462,0,0,1-1.2,14.495,30.064,30.064,0,0,1-19.332,21.228Z" fill="#ffc23b"/>
+      <path id="Trazado_40317" data-name="Trazado 40317" d="M245.392,2596.212,245,2596.1c-9.491-2.84-16.234-10.6-19.5-22.455a60.279,60.279,0,0,1-2.083-17.019l.054-1.152,14.8.159,5.961-6.95,6.888,6.683,16.506-.063.135,1.047a46.7,46.7,0,0,1-1.289,16.117c-2.966,11.414-10.127,19.578-20.708,23.6Z" fill="none" stroke="#3d4451" stroke-miterlimit="10" stroke-width="1.827"/>
+      <g id="Grupo_28932" data-name="Grupo 28932">
+        <path id="Trazado_40318" data-name="Trazado 40318" d="M249.968,2568.772a.99.99,0,0,0,.991-.99v-1.635c0-2.669-1.45-4.849-3.2-4.849h-5.226c-1.749,0-3.371,2.18-3.371,4.849v1.635a.99.99,0,0,0,.99.99h.09a.989.989,0,0,0,.991-.987v0h0v-1.143c0-1.994.865-3.54,2.083-3.54h3.638c1.218,0,2.025,1.547,2.025,3.54v1.143A.989.989,0,0,0,249.968,2568.772Z" fill="#3d4451"/>
+        <path id="Trazado_40319" data-name="Trazado 40319" d="M250.726,2569.581H240.073c-1.611,0-2.983.993-2.983,2.232v8.7c0,1.24,1.372,2.219,2.983,2.219h10.653c1.611,0,2.757-.978,2.757-2.219v-8.7A2.484,2.484,0,0,0,250.726,2569.581Zm-4.5,6.817.465,3.425h-2.61l.4-3.488a1.267,1.267,0,0,1-.634-1.177,1.573,1.573,0,1,1,2.378,1.24Z" fill="#3d4451"/>
+      </g>
+    </g>
+  </g>
+</svg>
