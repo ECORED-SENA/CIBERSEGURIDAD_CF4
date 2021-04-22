@@ -10,13 +10,13 @@
       .py-4.py-md-5(titulo="" :icono="require('@/assets/curso/img5.svg')")
         .row
           .col-12
-            .h4.txt-color1 7.1 Preguntas orientadoras de la necesidad del SGSI - ¿Cuándo y porque implantar un SGSI en una organización?
+            .h4.txt-color1 7.1 Preguntas orientadoras de la necesidad del SGSI - ¿Cuándo y porqué implantar un SGSI en una organización?
             p Implantar un SGSI en una empresa no es precisamente cuando se le haya presentado un incidente de seguridad sobre su información, sino, cuando ésta desea tener un crecimiento y posicionamiento ante un mercado exigente y global teniendo en cuenta que, para ello, requerirá del uso de la Tecnología de la información y las comunicaciones para lograrlo. En tal sentido, un SGSI, va permitir de forma organizada y sistémica, mantener la seguridad de la información que maneja la empresa con un alto grado de confiabilidad, integridad y disponibilidad. Así como el estar preparados para afrontar un incidente de seguridad que rompa las barreras (medidas de seguridad) de seguridad implantadas y estar en la capacidad de poner en funcionamiento rápidamente la empresa o que es lo mismo evitar que sus clientes lo perciban o lo vean.
       .py-4.py-md-5(titulo="" :icono="require('@/assets/curso/img6.svg')")
         .row
           .col-12
             .h4.txt-color1 7.2 ¿Qué aspectos se deben considerar al implantar un SGSI?
-            p La seguridad de la información es un compromiso de todos en una organización. Aunque esto sea claro para muchos empleados de una empresa, para otras no lo es, es por ello que uno de los aspectos relevantes a la hora de implementar un SGSI, es concientizar a las directivas y demás empleados, la importancia y responsabilidad de proteger la información como el activo más preciado que posee que la perdida de ella podría causar el declive parcial o total de la empresa con una afectación económica, de identidad, de marca y por ende disminución de empleados.
+            p La seguridad de la información es un compromiso de todos en una organización. Aunque esto sea claro para muchos empleados de una empresa, para otras no lo es, es por ello que uno de los aspectos relevantes a la hora de implementar un SGSI, es concientizar a las directivas y demás empleados, la importancia y responsabilidad de proteger la información como el activo más preciado que posee que la pérdida de ella podría causar el declive parcial o total de la empresa con una afectación económica, de identidad, de marca y por ende disminución de empleados.
       .py-4.py-md-5(titulo="" :icono="require('@/assets/curso/img7.svg')")
         .row
           .col-12
