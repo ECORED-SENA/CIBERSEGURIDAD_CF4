@@ -120,21 +120,9 @@ export const creditos = {
   },
   contenidoInstruccional: [
     {
-      nombre: 'Gloria Matilde Lee Mejía',
-      cargo: 'Responsable del equipo',
-      centro: 'Centro de Comercio y Servicios',
-      regional: 'Regional Tolima',
-    },
-    {
       nombre: 'Rafael Neftalí Lizcano Reyes',
-      cargo: 'Asesor pedagógico',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
-    },
-    {
-      nombre: 'Henry Eduardo Bastidas Paruma',
       cargo: 'Asesor metodológico y pedagógico',
-      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
     {
@@ -151,7 +139,7 @@ export const creditos = {
     },
     {
       nombre: 'Oscar Absalón Guevara',
-      cargo: 'Diseñador instruccional',
+      cargo: 'Evaluador instruccional',
       centro: 'Centro de Diseño y Metrología',
       regional: 'Regional Distrito Capital',
     },
