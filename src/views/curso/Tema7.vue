@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 7
-      .h3 Consideraciones para la implantación de un SGSI (Norma ISO 27001)
+      .h3 Consideraciones para la implementación de un SGSI (Norma ISO 27001)
     TabsB.mb-5
       .py-4.py-md-5(titulo="" :icono="require('@/assets/curso/img5.svg')")
         .row

@@ -74,7 +74,7 @@ export const menuPrincipal = {
       icono: 'far fa-file-alt',
       numero: '7',
       titulo:
-        'Consideraciones para la implantación de un SGSI (Norma ISO 27001)',
+        'Consideraciones para la implementación de un SGSI (Norma ISO 27001)',
       desarrolloContenidos: true,
     },
   ],
